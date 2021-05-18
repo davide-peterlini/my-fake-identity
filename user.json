@@ -2,9 +2,15 @@
   "users": [
     {
       "username": "test",
-      "password": "1234"
+      "password": "test1"
     },
-    2,
-    3
+    {
+      "username": "admin",
+      "password": "pws"
+    },
+    {
+      "username": "normal",
+      "password": "1234"
+    }
   ]
 }
